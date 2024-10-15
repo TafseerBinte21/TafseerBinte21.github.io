@@ -296,7 +296,7 @@ nav .navlinks li a {
 .portfolio-item {
     width: 400px;
     /* Increased width for rectangle */
-    height: 250px;
+    height: 400px;
     flex: 1 1 30%;
     border-radius: 10px;
     overflow: hidden;
@@ -318,13 +318,13 @@ nav .navlinks li a {
 
 .portfolio-info h3 {
     color: #fff;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-bottom: 10px;
 }
 
 .portfolio-info p {
     color: #e5e5e5;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     margin-bottom: 20px;
 }
 
